@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miyuki Ito</h1>
+<h1 align="center">Hi 👋, I'm Miyuki</h1>
 <h3 align="center">An aspiring full-stack developer based in Helsinki, Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ito-miyuki&label=Profile%20views&color=0e75b6&style=flat" alt="ito-miyuki" /> </p>
