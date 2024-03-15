@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miyuki</h1>
+<h1 align="center">Hi, I'm Miyuki👋</h1>
 <h3 align="center">An aspiring full-stack developer based in Helsinki, Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ito-miyuki&label=Profile%20views&color=0e75b6&style=flat" alt="ito-miyuki" /> </p>
@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **C, Javascript and react**
-
-- 💬 Ask me about **...anything!😁**
+- 🌱 I’m currently learning **C at Hive Helsinki.**  I also self learned Javascript and react.
 
 - 📫 How to reach me **mitou.1221@gmail.com**
 
