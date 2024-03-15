@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mitou.1221@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
