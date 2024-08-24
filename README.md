@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ito-miyuki&label=Profile%20views&color=0e75b6&style=flat" alt="ito-miyuki" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ito-miyuki" alt="ito-miyuki" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ito-miyuki" alt="ito-miyuki" /></a> </p>]: #
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+[<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>]: #
 
-- 🌱 I’m currently learning **C at Hive Helsinki.**  I also self learned Javascript and react.
+- 🐝 I’m currently learning **C and C++ at Hive Helsinki.**  I also self-learned Javascript and React.
 
 - 📫 How to reach me **mitou.1221@gmail.com**
 
